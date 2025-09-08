@@ -47,4 +47,4 @@ Customer Engagement: High-review products align with higher sales, proving custo
 Strategic Decision-Making: Enables businesses to focus on profitable categories and optimize stock levels.
 
 Screenshots / Demos
-This is how the dashboard will look like : ![Amazon Sales Analysis Dashboard] (https://github.com/ChaithraBR26/Amazon-Sales-Analysis-Dashboard/blob/main/Sales%20Analysis%20.png)
+This is how the dashboard will look like : ![Amazon Sales Analysis Dashboard](https://github.com/ChaithraBR26/Amazon-Sales-Analysis-Dashboard/blob/main/Sales%20Analysis%20.png)
